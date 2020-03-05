@@ -10,3 +10,6 @@ See [project here](https://nbviewer.jupyter.org/github/jscriptcoder/denoising-wi
 
 ## Architecture
 <img src="autoencoder_denoise.png" />
+
+## Result
+<img src="result.png" />

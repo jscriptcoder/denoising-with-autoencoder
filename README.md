@@ -1,6 +1,6 @@
 # Denoising images with Autoencoders
 
-**NOTE:** This project is an optional excercise from Deep Learning Nanodegree from Udacity.
+**NOTE:** This project is an optional excercise from [Deep Learning Nanodegree by Udacity](https://www.udacity.com/course/deep-learning-nanodegree--nd101).
 
 The idea is to use an Autoencoder architecture to denoise images. We're gonna be using MNIST dataset for this exercise.
 
